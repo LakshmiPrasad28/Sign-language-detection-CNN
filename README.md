@@ -41,7 +41,9 @@ SignLanguageDetectionUsingCNN/
 
 Clone the repository
 
-git clone https://github.com/your-username/SignLanguageDetectionUsingCNN.git
+git clone https://github.com/LakshmiPrasad28/Sign-language-detection-CNN
+
+
 cd SignLanguageDetectionUsingCNN
 
 
